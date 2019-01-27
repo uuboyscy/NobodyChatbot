@@ -1,0 +1,24 @@
+version: '3'
+services:
+  chatbot_jupyter_flask:
+    build: .
+    container_name: chatbot_jupyter_flask
+    restart: always
+    ports:
+      - "8888:8888"
+      - "80:5000"
+    volumes:
+      - ./material:/home/jovyan/work
+    command: start-notebook.sh --NotebookApp.token='fuckyou306478'
+
+  chatbot_ngrok:
+    image: wernight/ngrok
+    container_name: chatbot_ngrok
+    depends_on:
+      - chatbot_jupyter_flask
+    restart: always
+    ports:
+      - "52088:4040"
+    links:
+      - chatbot_jupyter_flask:http
+    command: ngrok http chatbot_jupyter_flask:5000
