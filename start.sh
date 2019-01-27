@@ -3,9 +3,9 @@ set -ex
 
 # SET THE FOLLOWING VARIABLES
 # docker hub username
-USERNAME=binghongli
+USERNAME=uuboyscy
 # image name
-IMAGE=line_bot_python
+IMAGE=line_chatbot_jupyter
 version=`cat VERSION`
 
 create_line_bot()
