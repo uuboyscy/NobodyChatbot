@@ -7,6 +7,8 @@ services:
     ports:
       - "9527:8888"
       - "80:5000"
+    links:
+      - redis_lins_jupyter
     volumes:
       - ./material:/home/jovyan/work
     command: start-notebook.sh --NotebookApp.token='howdoyouturnthison8888'
@@ -22,3 +24,13 @@ services:
     links:
       - chatbot_jupyter_flask:http
     command: ngrok http chatbot_jupyter_flask:5000
+
+  redis_lins_jupyter:
+    image: redislabs/rejson
+    container_name: ec2-redis
+    restart: always
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./redis_data:/data
+    command: redis-server --requirepass "howdoyouturnthison6379"
