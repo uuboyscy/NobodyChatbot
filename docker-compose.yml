@@ -9,7 +9,7 @@ services:
       - "80:5000"
     volumes:
       - ./material:/home/jovyan/work
-    command: start-notebook.sh --NotebookApp.token='fuckyou306478'
+    command: start-notebook.sh --NotebookApp.token='howdoyouturnthison8888'
 
   chatbot_ngrok:
     image: wernight/ngrok
