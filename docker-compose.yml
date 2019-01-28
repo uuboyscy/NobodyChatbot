@@ -5,7 +5,7 @@ services:
     container_name: chatbot_jupyter_flask
     restart: always
     ports:
-      - "8888:8888"
+      - "9527:8888"
       - "80:5000"
     volumes:
       - ./material:/home/jovyan/work
@@ -18,7 +18,7 @@ services:
       - chatbot_jupyter_flask
     restart: always
     ports:
-      - "52088:4040"
+      - "54088:4040"
     links:
       - chatbot_jupyter_flask:http
     command: ngrok http chatbot_jupyter_flask:5000
