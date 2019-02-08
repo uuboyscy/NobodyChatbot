@@ -5,6 +5,7 @@ RUN pip install PyMySQL
 RUN pip install python-logstash
 RUN pip install qrcode
 RUN pip install image
+RUN pip install python-dotenv
 
 #USER root
 #RUN apt-get -y update
