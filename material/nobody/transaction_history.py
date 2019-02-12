@@ -18,7 +18,7 @@ def transaction_flex(userID, server_url, timestamp_list):
     else:
         for i in range(0, len(timestamp_list)):
             liffUrl = "https://%s/transaction/%s/%s"%(server_url, userID, str(timestamp_list[i]['datetime']).replace(' ', '%20'))
-            liffID = (liff_add(liffUrl, "compact"))['liffId']
+            liffID = (liff_add(liffUrl, "tall"))['liffId']
             single_flex_bubble += """{
                         "type": "text",
                         "text": "%s",
@@ -73,18 +73,18 @@ def transaction_flex(userID, server_url, timestamp_list):
 def transaction_now_flex(userID, server_url):
     single_flex_bubble = """"""
     liffUrl = "https://%s/transaction/now/%s"%(server_url, userID)
-    liffID = (liff_add(liffUrl, "compact"))['liffId']
-    single_flex_bubble += """{
-                "type": "text",
-                "text": "Press to check your bill",
-                "margin": "md",
-                "size": "lg",
-                "align": "center",
-                "action": {
-                    "type": "uri",
-                    "uri": "line://app/%s"
-                  }
-            }""" % (liffID)
+    liffID = (liff_add(liffUrl, "tall"))['liffId']
+    single_flex_bubble += """
+                        {
+                            "type": "button",
+                            "action": {
+                                "type": "uri",
+                                "label": "Press to check your bill",
+                                "uri": "line://app/%s"
+                            },
+                            "color": "#905C44",
+                            "style": "primary"
+                        }""" % (liffID)
     flex_bubble = """
     {
         "type": "bubble",
