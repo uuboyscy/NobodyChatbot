@@ -12,6 +12,8 @@ services:
     volumes:
       - ./material:/home/jovyan/work
     command: start-notebook.sh --NotebookApp.token='howdoyouturnthison8888'
+    environment:
+      - "GRANT_SUDO: yes"
 
   chatbot_ngrok:
     image: wernight/ngrok
