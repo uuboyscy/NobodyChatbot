@@ -6,6 +6,8 @@ RUN pip install python-logstash
 RUN pip install qrcode
 RUN pip install image
 RUN pip install python-dotenv
+RUN pip install kafka-python
+RUN pip install pykafka
 
 #USER root
 #RUN apt-get -y update
