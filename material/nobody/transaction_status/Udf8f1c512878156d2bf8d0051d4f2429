@@ -1,51 +1,9 @@
 
-                            <tr class=success>
-                            <td>1</td>
-                            <td>Sauce</td>
-                            <td>1</td>
-                            <td>$ 50</td>
-                            <td>$ 50</td>
-                            </tr>
-                        
-                            <tr class=warning>
-                            <td>2</td>
-                            <td>Chicken</td>
-                            <td>2</td>
-                            <td>$ 150</td>
-                            <td>$ 300</td>
-                            </tr>
-                        
-                            <tr class=success>
-                            <td>3</td>
-                            <td>Pork</td>
-                            <td>1</td>
-                            <td>$ 170</td>
-                            <td>$ 170</td>
-                            </tr>
-                        
-                            <tr class=warning>
-                            <td>4</td>
-                            <td>Flour</td>
-                            <td>2</td>
-                            <td>$ 75</td>
-                            <td>$ 150</td>
-                            </tr>
-                        
-                            <tr class=success>
-                            <td>5</td>
-                            <td>OliveOil</td>
-                            <td>2</td>
-                            <td>$ 120</td>
-                            <td>$ 240</td>
-                            </tr>
-                        
-                    <thead>
-                        <tr class="danger">
-                        <th>Total</th>
-                        <th>-</th>
-                        <th>-</th>
-                        <th>-</th>
-                        <th>$ 910</th>
+                        <tr class="success">
+                        <td>null</td>
+                        <td>null</td>
+                        <td>null</td>
+                        <td>$ null</td>
+                        <td>$ null</td>
                         </tr>
-                    </thead>
                     
