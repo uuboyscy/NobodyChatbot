@@ -8,6 +8,9 @@ RUN pip install image
 RUN pip install python-dotenv
 RUN pip install kafka-python
 RUN pip install pykafka
+RUN pip install pymongo
+RUN pip install pandas
+RUN pip install sklearn
 
 #USER root
 #RUN apt-get -y update

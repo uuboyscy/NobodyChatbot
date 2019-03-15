@@ -13,7 +13,7 @@ def member_centre_flex(userID, server_url, qrcodeurl, user_id, username):
     liffID = (liff_add(liffUrl, "compact"))['liffId']
     
     ADMINISTRATOR = ''
-    if userID in administratorList:    
+    if userID in administratorList:
         ADMINISTRATOR = """
             ,{
               "type": "button",
