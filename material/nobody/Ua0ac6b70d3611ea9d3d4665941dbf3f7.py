@@ -9,7 +9,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/117795/large_812a46efd0f8de81.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/91590/large_e86aab1540bc205f.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -21,7 +21,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "全麥餅乾",
+                          "text": "家常蛋餅★",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -32,7 +32,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " sugar flour water cream",
+                              "text": " pepper egg water flour salt oil",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -53,7 +53,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/117795"
+                            "uri": "https://icook.tw/recipes/91590"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
@@ -66,7 +66,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/116845/large_4f325a66d37dffc7.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/46518/large_7554fc70d4d0f182.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -78,7 +78,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "奶油酥餅 stone",
+                          "text": "老王蔥油餅",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -89,7 +89,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " sugar flour egg cream",
+                              "text": " salt oil flour water",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -110,7 +110,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/116845"
+                            "uri": "https://icook.tw/recipes/46518"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
@@ -123,7 +123,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/213787/large_7577b0e60865163c.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/121923/large_9eaf6c72662e728f.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -135,7 +135,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "幸運小餅乾",
+                          "text": "燒餅鳳梨酥",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -146,7 +146,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " sugar oil flour cream",
+                              "text": " oil flour water cream",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -167,7 +167,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/213787"
+                            "uri": "https://icook.tw/recipes/121923"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
@@ -180,7 +180,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/104953/large_bf8d2b8ecabc45df.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/204588/large_85e0a48983c0c387.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -192,7 +192,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "心型糖霜餅乾",
+                          "text": "自製龍捲麵",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -203,7 +203,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " sugar flour egg cream",
+                              "text": " salt flour water",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -224,178 +224,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/104953"
-                          },
-                          "color": "#AAAAAA",
-                          "style": "primary"
-                        }
-                      ]
-                    }
-                  },
-            
-            {
-                    "type": "bubble",
-                    "hero": {
-                      "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/51470/large_903165aa0618673d.jpg",
-                      "size": "full",
-                      "aspectRatio": "20:13",
-                      "aspectMode": "cover"
-                    },
-                    "body": {
-                      "type": "box",
-                      "layout": "vertical",
-                      "spacing": "sm",
-                      "contents": [
-                        {
-                          "type": "text",
-                          "text": "[Witi✿Kitchen]虎皮巧克力蛋糕捲",
-                          "size": "lg",
-                          "weight": "bold",
-                          "wrap": true
-                        },
-                        {
-                          "type": "box",
-                          "layout": "baseline",
-                          "contents": [
-                            {
-                              "type": "text",
-                              "text": " sugar flour egg cream",
-                              "flex": 0,
-                              "size": "sm",
-                              "weight": "bold",
-                              "color": "#8A8989",
-                              "wrap": true
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    "footer": {
-                      "type": "box",
-                      "layout": "vertical",
-                      "spacing": "sm",
-                      "contents": [
-                        {
-                          "type": "button",
-                          "action": {
-                            "type": "uri",
-                            "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/51470"
-                          },
-                          "color": "#AAAAAA",
-                          "style": "primary"
-                        }
-                      ]
-                    }
-                  },
-            
-            {
-                    "type": "bubble",
-                    "hero": {
-                      "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/111040/large_d4b50cb77335cb87.jpg",
-                      "size": "full",
-                      "aspectRatio": "20:13",
-                      "aspectMode": "cover"
-                    },
-                    "body": {
-                      "type": "box",
-                      "layout": "vertical",
-                      "spacing": "sm",
-                      "contents": [
-                        {
-                          "type": "text",
-                          "text": "少女的夢幻手作 KITTY壓模奶油餅乾",
-                          "size": "lg",
-                          "weight": "bold",
-                          "wrap": true
-                        },
-                        {
-                          "type": "box",
-                          "layout": "baseline",
-                          "contents": [
-                            {
-                              "type": "text",
-                              "text": " sugar flour egg cream",
-                              "flex": 0,
-                              "size": "sm",
-                              "weight": "bold",
-                              "color": "#8A8989",
-                              "wrap": true
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    "footer": {
-                      "type": "box",
-                      "layout": "vertical",
-                      "spacing": "sm",
-                      "contents": [
-                        {
-                          "type": "button",
-                          "action": {
-                            "type": "uri",
-                            "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/111040"
-                          },
-                          "color": "#AAAAAA",
-                          "style": "primary"
-                        }
-                      ]
-                    }
-                  },
-            
-            {
-                    "type": "bubble",
-                    "hero": {
-                      "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/27648/large_5ea047eaf8c1c5df.jpg",
-                      "size": "full",
-                      "aspectRatio": "20:13",
-                      "aspectMode": "cover"
-                    },
-                    "body": {
-                      "type": "box",
-                      "layout": "vertical",
-                      "spacing": "sm",
-                      "contents": [
-                        {
-                          "type": "text",
-                          "text": "♥我的手作料理♥蛋黃酥",
-                          "size": "lg",
-                          "weight": "bold",
-                          "wrap": true
-                        },
-                        {
-                          "type": "box",
-                          "layout": "baseline",
-                          "contents": [
-                            {
-                              "type": "text",
-                              "text": " egg soy sauce sugar flour cream",
-                              "flex": 0,
-                              "size": "sm",
-                              "weight": "bold",
-                              "color": "#8A8989",
-                              "wrap": true
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    "footer": {
-                      "type": "box",
-                      "layout": "vertical",
-                      "spacing": "sm",
-                      "contents": [
-                        {
-                          "type": "button",
-                          "action": {
-                            "type": "uri",
-                            "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/27648"
+                            "uri": "https://icook.tw/recipes/204588"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"

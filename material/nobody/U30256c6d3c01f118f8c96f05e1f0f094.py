@@ -9,7 +9,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/84166/large_9f9ba3cf3a4f1765.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/75484/large_d34713547c7074d8.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -21,7 +21,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "【電鍋】煎蛋餅",
+                          "text": "愛妻便當--洋蔥壽喜燒漢堡排",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -32,7 +32,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " egg cream",
+                              "text": " water soy sauce sugar onion oil",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -53,7 +53,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/84166"
+                            "uri": "https://icook.tw/recipes/75484"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
@@ -66,7 +66,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/181584/large_4b3fba918bf66b72.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/76648/large_98c850bb7e9b2ebc.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -78,7 +78,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "寶寶食譜【南瓜蛋糕】(電鍋版)",
+                          "text": "焦糖滷味 ",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -89,7 +89,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " egg cream",
+                              "text": " chicken soy sauce onion",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -110,7 +110,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/181584"
+                            "uri": "https://icook.tw/recipes/76648"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
@@ -123,7 +123,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/125729/large_2d0bbb6d881654a5.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/215129/large_6e5443a83b44cf0e.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -135,7 +135,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "蜜糖吐司❤",
+                          "text": "雞肉飯",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -146,7 +146,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " sugar cream",
+                              "text": " chicken sugar soy sauce water",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -167,7 +167,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/125729"
+                            "uri": "https://icook.tw/recipes/215129"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
@@ -180,7 +180,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/125729/large_2d0bbb6d881654a5.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/99190/large_9f1a56ea7ed66714.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -192,7 +192,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "蜜糖吐司❤",
+                          "text": "日式蕎麥涼麵",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -203,7 +203,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " sugar cream",
+                              "text": " soy sauce flour",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -224,7 +224,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/125729"
+                            "uri": "https://icook.tw/recipes/99190"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
@@ -237,7 +237,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/181584/large_4b3fba918bf66b72.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/217250/large_6e77a1e981aecb11.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -249,7 +249,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "寶寶食譜【南瓜蛋糕】(電鍋版)",
+                          "text": "手切養生肉燥（無油料理）",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -260,7 +260,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " egg cream",
+                              "text": " pepper water soy sauce pork sugar onion",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -281,7 +281,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/181584"
+                            "uri": "https://icook.tw/recipes/217250"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
@@ -294,7 +294,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/115858/large_60fee7a2d6ee5828.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/215129/large_6e5443a83b44cf0e.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -306,7 +306,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "入口即化雪球餅乾 【免發粉】",
+                          "text": "雞肉飯",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -317,7 +317,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " flour cream",
+                              "text": " chicken sugar soy sauce water",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -338,7 +338,64 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/115858"
+                            "uri": "https://icook.tw/recipes/215129"
+                          },
+                          "color": "#AAAAAA",
+                          "style": "primary"
+                        }
+                      ]
+                    }
+                  },
+            
+            {
+                    "type": "bubble",
+                    "hero": {
+                      "type": "image",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/36544/large_5404cc13d4d6b9a7.jpg",
+                      "size": "full",
+                      "aspectRatio": "20:13",
+                      "aspectMode": "cover"
+                    },
+                    "body": {
+                      "type": "box",
+                      "layout": "vertical",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "[健康廚房10分鐘出年菜]彩椒雞丁 (小心上癮)",
+                          "size": "lg",
+                          "weight": "bold",
+                          "wrap": true
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "text",
+                              "text": " pepper water soy sauce chicken oil",
+                              "flex": 0,
+                              "size": "sm",
+                              "weight": "bold",
+                              "color": "#8A8989",
+                              "wrap": true
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "footer": {
+                      "type": "box",
+                      "layout": "vertical",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "type": "button",
+                          "action": {
+                            "type": "uri",
+                            "label": "看食譜",
+                            "uri": "https://icook.tw/recipes/36544"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"

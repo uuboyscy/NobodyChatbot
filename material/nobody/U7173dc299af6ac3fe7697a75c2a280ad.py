@@ -9,7 +9,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/234605/large_c3c9604e6332324f.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/266806/large_7b71b7a1151688e4.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -21,7 +21,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "牛肉羅宋湯",
+                          "text": "韭菜花炒蛋",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -32,7 +32,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " soy sauce onion beef water",
+                              "text": " salt egg",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -53,7 +53,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/234605"
+                            "uri": "https://icook.tw/recipes/266806"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
@@ -66,7 +66,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/166755/large_6e6ff66311365aee.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/198713/large_e269625a8cdb1f9e.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -78,7 +78,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "洋蔥肉燥",
+                          "text": "簡易版玉子燒",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -89,7 +89,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " pepper water soy sauce pork sugar onion",
+                              "text": " salt oil egg water",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -110,7 +110,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/166755"
+                            "uri": "https://icook.tw/recipes/198713"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
@@ -123,7 +123,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/86399/large_29c71fea0850f081.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/225704/large_8aad78fa874eb59c.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -135,7 +135,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "自製剝皮辣椒-免剝皮做法",
+                          "text": "完美蒸蛋",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -146,7 +146,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " pepper water soy sauce sugar salt",
+                              "text": " salt egg water",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -167,7 +167,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/86399"
+                            "uri": "https://icook.tw/recipes/225704"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
@@ -180,7 +180,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/271161/large_a895ed73ee8f8cbc.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/79091/large_c3809f28d0fb4e57.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -192,7 +192,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "蒜香雞塊",
+                          "text": "甜椒厚蛋盅",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -203,7 +203,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " chicken soy sauce water",
+                              "text": " pepper egg water",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -224,64 +224,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/271161"
-                          },
-                          "color": "#AAAAAA",
-                          "style": "primary"
-                        }
-                      ]
-                    }
-                  },
-            
-            {
-                    "type": "bubble",
-                    "hero": {
-                      "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/84592/large_409c8ebb6ef08f64.jpg",
-                      "size": "full",
-                      "aspectRatio": "20:13",
-                      "aspectMode": "cover"
-                    },
-                    "body": {
-                      "type": "box",
-                      "layout": "vertical",
-                      "spacing": "sm",
-                      "contents": [
-                        {
-                          "type": "text",
-                          "text": "泰式打拋肉",
-                          "size": "lg",
-                          "weight": "bold",
-                          "wrap": true
-                        },
-                        {
-                          "type": "box",
-                          "layout": "baseline",
-                          "contents": [
-                            {
-                              "type": "text",
-                              "text": " pepper soy sauce pork sugar fish",
-                              "flex": 0,
-                              "size": "sm",
-                              "weight": "bold",
-                              "color": "#8A8989",
-                              "wrap": true
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    "footer": {
-                      "type": "box",
-                      "layout": "vertical",
-                      "spacing": "sm",
-                      "contents": [
-                        {
-                          "type": "button",
-                          "action": {
-                            "type": "uri",
-                            "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/84592"
+                            "uri": "https://icook.tw/recipes/79091"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"

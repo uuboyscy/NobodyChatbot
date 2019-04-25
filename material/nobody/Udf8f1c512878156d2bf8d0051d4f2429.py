@@ -9,7 +9,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/215129/large_6e5443a83b44cf0e.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/123026/large_6b4bce1700b00e3c.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -21,7 +21,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "雞肉飯",
+                          "text": "紅燒牛肉麵",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -32,7 +32,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " chicken sugar soy sauce water",
+                              "text": " oil onion beef",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -53,7 +53,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/215129"
+                            "uri": "https://icook.tw/recipes/123026"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
@@ -66,7 +66,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/92415/large_b77df21676dd3bd1.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/122845/large_bb0fc8508dd9e2e7.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -78,7 +78,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "簡易飯湯（DIY高湯塊）",
+                          "text": "台式油蔥蒸蛋",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -89,7 +89,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " pork fish",
+                              "text": " onion egg",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -110,7 +110,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/92415"
+                            "uri": "https://icook.tw/recipes/122845"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
@@ -123,7 +123,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/189740/large_ddd60d1bbe3c40b7.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/127567/large_b31e94f2aa207f78.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -135,7 +135,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "簡單又下飯的照燒雞腿排",
+                          "text": "瑪莉廚房：洋蔥炒蛋《超簡易的家常菜》",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -146,7 +146,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " chicken sugar soy sauce onion",
+                              "text": " onion egg water",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -167,7 +167,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/189740"
+                            "uri": "https://icook.tw/recipes/127567"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
@@ -180,7 +180,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/29723/large_a5d018e35afc9713.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/19803/large_3abca977e3d0db0b.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -192,7 +192,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "氣炸雞腿",
+                          "text": "【深夜食堂】NO2.第21夜 洋蔥圈",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -203,7 +203,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " chicken sugar soy sauce",
+                              "text": " onion water flour",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -224,7 +224,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/29723"
+                            "uri": "https://icook.tw/recipes/19803"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
@@ -237,7 +237,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/202936/large_955c39851fbd29cd.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/80270/large_fb065a443dba6862.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -249,7 +249,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "快炒店人氣料理 蔥爆牛肉(不勾芡)",
+                          "text": "椒塩葱肉鍋餅(快速免揉)",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -260,7 +260,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " pepper beef water soy sauce sugar onion oil",
+                              "text": " pepper egg water onion flour",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -281,7 +281,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/202936"
+                            "uri": "https://icook.tw/recipes/80270"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
@@ -294,7 +294,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/234605/large_c3c9604e6332324f.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/42666/large_8bcc4a13b5449e51.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -306,7 +306,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "牛肉羅宋湯",
+                          "text": "南部口味的蛋餅",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -317,7 +317,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " soy sauce onion beef water",
+                              "text": " flour egg onion",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -338,7 +338,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/234605"
+                            "uri": "https://icook.tw/recipes/42666"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
@@ -351,7 +351,7 @@ flexCarouselContainerJsonDict = """
                     "type": "bubble",
                     "hero": {
                       "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/93504/large_9a0308701176e093.jpg",
+                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/24529/large_30fc22adaea126b6.jpg",
                       "size": "full",
                       "aspectRatio": "20:13",
                       "aspectMode": "cover"
@@ -363,7 +363,7 @@ flexCarouselContainerJsonDict = """
                       "contents": [
                         {
                           "type": "text",
-                          "text": "清蒸球芽甘藍",
+                          "text": "韓式泡菜鍋",
                           "size": "lg",
                           "weight": "bold",
                           "wrap": true
@@ -374,7 +374,7 @@ flexCarouselContainerJsonDict = """
                           "contents": [
                             {
                               "type": "text",
-                              "text": " soy sauce onion water",
+                              "text": " chicken onion",
                               "flex": 0,
                               "size": "sm",
                               "weight": "bold",
@@ -395,64 +395,7 @@ flexCarouselContainerJsonDict = """
                           "action": {
                             "type": "uri",
                             "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/93504"
-                          },
-                          "color": "#AAAAAA",
-                          "style": "primary"
-                        }
-                      ]
-                    }
-                  },
-            
-            {
-                    "type": "bubble",
-                    "hero": {
-                      "type": "image",
-                      "url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/115016/large_7962872651734e7d.jpg",
-                      "size": "full",
-                      "aspectRatio": "20:13",
-                      "aspectMode": "cover"
-                    },
-                    "body": {
-                      "type": "box",
-                      "layout": "vertical",
-                      "spacing": "sm",
-                      "contents": [
-                        {
-                          "type": "text",
-                          "text": "韓式燉牛排骨갈비찜",
-                          "size": "lg",
-                          "weight": "bold",
-                          "wrap": true
-                        },
-                        {
-                          "type": "box",
-                          "layout": "baseline",
-                          "contents": [
-                            {
-                              "type": "text",
-                              "text": " pepper beef soy sauce sugar onion oil",
-                              "flex": 0,
-                              "size": "sm",
-                              "weight": "bold",
-                              "color": "#8A8989",
-                              "wrap": true
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    "footer": {
-                      "type": "box",
-                      "layout": "vertical",
-                      "spacing": "sm",
-                      "contents": [
-                        {
-                          "type": "button",
-                          "action": {
-                            "type": "uri",
-                            "label": "看食譜",
-                            "uri": "https://icook.tw/recipes/115016"
+                            "uri": "https://icook.tw/recipes/24529"
                           },
                           "color": "#AAAAAA",
                           "style": "primary"
